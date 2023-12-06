@@ -23,10 +23,10 @@ eureka.client.register-with-eureka=false
 eureka.client.fetch-registry=false
 ```
 
-![Architecture](3.png)
+![Architecture](2.png)
 
 # The database 
-![Architecture](4.png)
+![Architecture](3.png)
 ## II. Creating the Client Service
 To create a client service, follow these steps:
 
