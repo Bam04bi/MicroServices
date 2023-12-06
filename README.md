@@ -23,7 +23,7 @@ eureka.client.register-with-eureka=false
 eureka.client.fetch-registry=false
 ```
 
-![Architecture](2.png)
+![Architecture](3.png)
 
 # The database 
 ![Architecture](4.png)
