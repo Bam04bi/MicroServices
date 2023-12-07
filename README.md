@@ -7,7 +7,7 @@ IV. [Application Architecture](#iv-application-architecture)
 V. [Running the Application](#v-Running-the-application)  
 
 ## Objective
-This tutorial aims to develop a comprehensive understanding of microservices architecture. Key aspects of this learning include creating and registering microservices, connecting to an in-memory H2 database, establishing a gateway service, and implementing synchronous communication between microservices using the OPENFEIGN tool.
+This tutorial aims to develop a comprehensive understanding of microservices architecture. Key aspects of this learning include creating and registering microservices, connecting to MySQL database, establishing a gateway service, and implementing synchronous communication between microservices using the OPENFEIGN tool.
 
 In this tutorial, we adopt a microservices-based architecture, characterized by breaking down an application into small independent services. At the core of this structure are client microservices, autonomous entities that interact to provide a complete functionality. The API Gateway acts as a centralized entry point, simplifying request management by directing traffic to the appropriate microservices. The Eureka discovery server plays a crucial role by allowing each microservice to dynamically register, forming a decentralized directory of available services.
 
